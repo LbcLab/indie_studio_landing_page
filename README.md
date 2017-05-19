@@ -29,9 +29,8 @@
  3) Load javascript at the end
  
  ## :neckbeard: Authors
- 
--Names of the current team members!
-+* **Charles Paulet** - *Initial work* - [LBCLAB](https://lbclab.com/)
+
+ + **Charles Paulet** - *Initial work* - [LBCLAB](https://lbclab.com/)
  
  See also the list of [contributors](https://github.com/LbcLab/indie_studio_landing_page/contributors) who participated in this project.
  
