@@ -19,13 +19,19 @@
  
  
  There is no building process such as js uglification of image compression yet.
- You can contribute by working on the only index.html page. css/* and js/* are whole
- part of the project. vendor/* is for libraries
-
+ You can contribute by working on the only index.html page. css/\* and js/\* are whole
+ part of the project. vendor/\* is for libraries
+ 
+ ## :hankey: Section not for bugs but delayed features
+ 
+ 1) Add the image compression
+ 2) Minify javascript / css
+ 3) Load javascript at the end
+ 
  ## :neckbeard: Authors
  
 -Names of the current team members!
-+* **Charles Paulet** - *Initial work* - [PurpleBooth](https://lbclab.com/)
++* **Charles Paulet** - *Initial work* - [LBCLAB](https://lbclab.com/)
  
  See also the list of [contributors](https://github.com/LbcLab/indie_studio_landing_page/contributors) who participated in this project.
  
