@@ -34,4 +34,3 @@
  
  See also the list of [contributors](https://github.com/LbcLab/indie_studio_landing_page/contributors) who participated in this project.
  
-
