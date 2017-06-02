@@ -1,0 +1,96 @@
+body
+{
+  padding-top: 54px;
+  font-weight: normal;
+  font-size: 1.55em;
+  margin:0px;
+  text-transform: uppercase;
+  line-height: 2em;
+}
+
+h1
+{
+  text-align: center;
+}
+
+.grow
+{
+  transition: all .6s ease-in-out;
+}
+
+.grow:hover
+{
+  -webkit-transform: scale(1.1);
+  -ms-transform: scale(1.1);
+  transform: scale(1.1);
+}
+
+.logo
+{
+  transition-property: transform;
+  transition-duration: 1s;
+}
+
+.logo:hover
+{
+  animation-name: rotate;
+  animation-duration: 2s;
+  animation-iteration-count: infinite;
+  animation-timing-function: linear;
+}
+
+@keyframes rotate {
+  from {transform: rotate(0deg);}
+  to {transform: rotate(360deg);}
+}
+
+.py-5
+{
+  background-color: #FFFFF0;
+  box-shadow: inset 0px 0px 10px rgba(0,0,0,0.9);
+}
+
+.center
+{
+  text-align: center;
+}
+
+.aer-quote
+{
+  font-family: 'Hoefler Text', Georgia, 'Times New Roman', serif;
+  letter-spacing: .2em;
+  font-size: 1em;
+  line-height: 1.1em;
+}
+
+@media (min-width: 992px)
+{
+  body
+  {
+    padding-top: 56px;
+    font-size: 1.05em;
+  }
+}
+
+.selected
+{
+  color: #fffff0 !important;
+}
+
+.parallax
+{
+  background: no-repeat center center fixed;
+}
+
+.scroll
+{
+  background: no-repeat center center scroll;
+}
+
+.bg-image-full
+{
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  background-size: cover;
+  -o-background-size: cover;
+}
